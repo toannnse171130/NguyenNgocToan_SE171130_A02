@@ -1,0 +1,14 @@
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.DataAcces\bin\Debug\net8.0\SalesManagementSystem.DataAcces.deps.json
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.DataAcces\bin\Debug\net8.0\SalesManagementSystem.DataAcces.runtimeconfig.json
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.DataAcces\bin\Debug\net8.0\SalesManagementSystem.DataAcces.dll
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.DataAcces\bin\Debug\net8.0\SalesManagementSystem.DataAcces.pdb
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.DataAcces\obj\Debug\net8.0\SalesManagementSystem.DataAcces.csproj.AssemblyReference.cache
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.DataAcces\obj\Debug\net8.0\SalesManagementSystem.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.DataAcces\obj\Debug\net8.0\SalesManagementSystem.DataAcces.AssemblyInfoInputs.cache
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.DataAcces\obj\Debug\net8.0\SalesManagementSystem.DataAcces.AssemblyInfo.cs
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.DataAcces\obj\Debug\net8.0\SalesManagementSystem.DataAcces.csproj.CoreCompileInputs.cache
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.DataAcces\obj\Debug\net8.0\SalesManagementSystem.DataAcces.dll
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.DataAcces\obj\Debug\net8.0\refint\SalesManagementSystem.DataAcces.dll
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.DataAcces\obj\Debug\net8.0\SalesManagementSystem.DataAcces.pdb
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.DataAcces\obj\Debug\net8.0\SalesManagementSystem.DataAcces.genruntimeconfig.cache
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.DataAcces\obj\Debug\net8.0\ref\SalesManagementSystem.DataAcces.dll

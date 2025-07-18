@@ -1,0 +1,16 @@
+<Window x:Class="SalesManagementSystem.WPF.MainMenuWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Main Menu" Height="500" Width="350">
+    <Grid Margin="20">
+        <StackPanel>
+            <TextBlock x:Name="EmployeeNameText" FontWeight="Bold" FontSize="16" Margin="0,0,0,20"/>
+            <Button Content="Manage Customers" Height="40" Margin="0,0,0,10" Click="ManageCustomers_Click"/>
+            <Button Content="Manage Products" Height="40" Margin="0,0,0,10" Click="ManageProducts_Click"/>
+            <Button Content="Manage Orders" Height="40" Margin="0,0,0,10" Click="ManageOrders_Click"/>
+            <Button Content="Manage Employees" Height="40" Margin="0,0,0,10" Click="ManageEmployees_Click"/>
+            <Button Content="Reports" Height="40" Margin="0,0,0,10" Click="Reports_Click"/>
+            <Button Content="Logout" Height="40" Margin="0,20,0,0" Click="Logout_Click"/>
+        </StackPanel>
+    </Grid>
+</Window> 

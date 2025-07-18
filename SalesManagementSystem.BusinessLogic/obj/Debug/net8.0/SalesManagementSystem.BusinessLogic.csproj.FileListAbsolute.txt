@@ -1,0 +1,15 @@
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\obj\Debug\net8.0\SalesManagementSystem.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\obj\Debug\net8.0\SalesManagementSystem.BusinessLogic.AssemblyInfoInputs.cache
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\obj\Debug\net8.0\SalesManagementSystem.BusinessLogic.AssemblyInfo.cs
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\obj\Debug\net8.0\SalesManagementSystem.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\obj\Debug\net8.0\SalesManagementSystem.BusinessLogic.csproj.AssemblyReference.cache
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\bin\Debug\net8.0\SalesManagementSystem.BusinessLogic.deps.json
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\bin\Debug\net8.0\SalesManagementSystem.BusinessLogic.dll
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\bin\Debug\net8.0\SalesManagementSystem.BusinessLogic.pdb
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\bin\Debug\net8.0\SalesManagementSystem.DataAcces.dll
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\bin\Debug\net8.0\SalesManagementSystem.DataAcces.pdb
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\obj\Debug\net8.0\SalesMan.CC155385.Up2Date
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\obj\Debug\net8.0\SalesManagementSystem.BusinessLogic.dll
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\obj\Debug\net8.0\refint\SalesManagementSystem.BusinessLogic.dll
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\obj\Debug\net8.0\SalesManagementSystem.BusinessLogic.pdb
+E:\dotritrong\CSharp\NguyenNgocToan_SE171130_A02\SalesManagementSystem.BusinessLogic\obj\Debug\net8.0\ref\SalesManagementSystem.BusinessLogic.dll
