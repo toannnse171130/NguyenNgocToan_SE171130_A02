@@ -1,106 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\",
+  "WorkspaceRootPath": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\productdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\productdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{639A2065-8E8B-43DE-BDC2-CA3EA3EB6C0B}|SalesManagementSystem.BusinessLogic\\SalesManagementSystem.BusinessLogic.csproj|d:\\fbt\\prn212_lab_assignment\\nguyenngoctoan_se171130_as2\\nguyenngoctoan_se171130_a02\\salesmanagementsystem.businesslogic\\viewmodel\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639A2065-8E8B-43DE-BDC2-CA3EA3EB6C0B}|SalesManagementSystem.BusinessLogic\\SalesManagementSystem.BusinessLogic.csproj|solutionrelative:salesmanagementsystem.businesslogic\\viewmodel\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\customerprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\customerprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\employeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\employeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{639A2065-8E8B-43DE-BDC2-CA3EA3EB6C0B}|SalesManagementSystem.BusinessLogic\\SalesManagementSystem.BusinessLogic.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\salesmanagementsystem.businesslogic\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639A2065-8E8B-43DE-BDC2-CA3EA3EB6C0B}|SalesManagementSystem.BusinessLogic\\SalesManagementSystem.BusinessLogic.csproj|solutionrelative:salesmanagementsystem.businesslogic\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\orderdetaildialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\orderdetaildialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\mainmenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\mainmenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\categorydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\categorydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\categoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\categoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\customerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\customerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\customerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\employeedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\employeedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\productview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\orderdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\orderdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\orderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\orderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\orderdetailview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\orderdetailview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|d:\\fbt\\prn212_lab_assignment\\nguyenngoctoan_se171130_as2\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47E3EFB5-709A-45F0-80C7-D62011B2779F}|SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\salesmanagementsystem.dataacces\\models\\lucysalesdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47E3EFB5-709A-45F0-80C7-D62011B2779F}|SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj|solutionrelative:salesmanagementsystem.dataacces\\models\\lucysalesdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|d:\\fbt\\prn212_lab_assignment\\nguyenngoctoan_se171130_as2\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\salesmanagementsystem.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\salesmanagementsystem.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{639A2065-8E8B-43DE-BDC2-CA3EA3EB6C0B}|SalesManagementSystem.BusinessLogic\\SalesManagementSystem.BusinessLogic.csproj|d:\\fbt\\prn212_lab_assignment\\nguyenngoctoan_se171130_as2\\nguyenngoctoan_se171130_a02\\salesmanagementsystem.businesslogic\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639A2065-8E8B-43DE-BDC2-CA3EA3EB6C0B}|SalesManagementSystem.BusinessLogic\\SalesManagementSystem.BusinessLogic.csproj|solutionrelative:salesmanagementsystem.businesslogic\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639A2065-8E8B-43DE-BDC2-CA3EA3EB6C0B}|SalesManagementSystem.BusinessLogic\\SalesManagementSystem.BusinessLogic.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\salesmanagementsystem.businesslogic\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639A2065-8E8B-43DE-BDC2-CA3EA3EB6C0B}|SalesManagementSystem.BusinessLogic\\SalesManagementSystem.BusinessLogic.csproj|solutionrelative:salesmanagementsystem.businesslogic\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47E3EFB5-709A-45F0-80C7-D62011B2779F}|SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\salesmanagementsystem.dataacces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47E3EFB5-709A-45F0-80C7-D62011B2779F}|SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj|solutionrelative:salesmanagementsystem.dataacces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47E3EFB5-709A-45F0-80C7-D62011B2779F}|SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\salesmanagementsystem.dataacces\\salesmanagementsystem.dataacces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{47E3EFB5-709A-45F0-80C7-D62011B2779F}|SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj|solutionrelative:salesmanagementsystem.dataacces\\salesmanagementsystem.dataacces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|c:\\users\\alvin\\downloads\\nguyenngoctoan_se171130_a02\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|d:\\fbt\\prn212_lab_assignment\\nguyenngoctoan_se171130_as2\\nguyenngoctoan_se171130_a02\\sales management system.wpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E411DAFE-2F22-4ACC-9EB3-45AC31F36483}|Sales Management System.WPF\\SalesManagementSystem.WPF.csproj|solutionrelative:sales management system.wpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,297 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\appsettings.json",
+              "RelativeDocumentMoniker": "Sales Management System.WPF\\appsettings.json",
+              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\appsettings.json",
+              "RelativeToolTip": "Sales Management System.WPF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T12:28:29.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Sales Management System.WPF\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Sales Management System.WPF\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:57:35.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.BusinessLogic\\ViewModel\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "SalesManagementSystem.BusinessLogic\\ViewModel\\CategoryViewModel.cs",
+              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.BusinessLogic\\ViewModel\\CategoryViewModel.cs*",
+              "RelativeToolTip": "SalesManagementSystem.BusinessLogic\\ViewModel\\CategoryViewModel.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:42:53.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.BusinessLogic\\Service\\CategoryService.cs",
+              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.BusinessLogic\\Service\\CategoryService.cs",
               "RelativeDocumentMoniker": "SalesManagementSystem.BusinessLogic\\Service\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.BusinessLogic\\Service\\CategoryService.cs",
+              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.BusinessLogic\\Service\\CategoryService.cs",
               "RelativeToolTip": "SalesManagementSystem.BusinessLogic\\Service\\CategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T07:11:50.494Z",
+              "WhenOpened": "2025-07-21T11:41:23.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\LoginWindow.xaml",
+              "DocumentMoniker": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "Sales Management System.WPF\\LoginWindow.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\LoginWindow.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\LoginWindow.xaml",
+              "ToolTip": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\LoginWindow.xaml*",
+              "RelativeToolTip": "Sales Management System.WPF\\LoginWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:24:14.365Z",
+              "WhenOpened": "2025-07-21T11:39:58.73Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\MainWindow.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T04:52:43.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeView.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\EmployeeView.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\EmployeeView.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\EmployeeView.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\EmployeeView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:24:12.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerProfileWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\CustomerProfileWindow.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\CustomerProfileWindow.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\CustomerProfileWindow.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\CustomerProfileWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:19:04.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductDialog.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\ProductDialog.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\ProductDialog.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\ProductDialog.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\ProductDialog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:25:50.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderDetailDialog.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\OrderDetailDialog.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\OrderDetailDialog.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\OrderDetailDialog.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\OrderDetailDialog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:22:46.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainMenuWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\MainMenuWindow.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\MainMenuWindow.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\MainMenuWindow.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\MainMenuWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T17:37:49.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoryDialog.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\CategoryDialog.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\CategoryDialog.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\CategoryDialog.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\CategoryDialog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:22:59.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoryView.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\CategoryView.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\CategoryView.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\CategoryView.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\CategoryView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:23:10.295Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CustomerDialog.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\CustomerDialog.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\CustomerDialog.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\CustomerDialog.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\CustomerDialog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:20:25.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CustomerView.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\CustomerView.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\CustomerView.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\CustomerView.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\CustomerView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:22:44.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EmployeeDialog.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\EmployeeDialog.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\EmployeeDialog.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\EmployeeDialog.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\EmployeeDialog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:23:12.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ReportView.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\ReportView.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\ReportView.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\ReportView.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\ReportView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:22:51.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductView.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\ProductView.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\ProductView.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\ProductView.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\ProductView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:26:35.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "OrderDialog.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\OrderDialog.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\OrderDialog.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\OrderDialog.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\OrderDialog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:24:43.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "OrderView.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\OrderView.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\OrderView.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\OrderView.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\OrderView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:22:35.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OrderDetailView.xaml",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\OrderDetailView.xaml",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\OrderDetailView.xaml",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\OrderDetailView.xaml",
-              "RelativeToolTip": "Sales Management System.WPF\\OrderDetailView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-16T14:22:48.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LucySalesDataContext.cs",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\Models\\LucySalesDataContext.cs",
-              "RelativeDocumentMoniker": "SalesManagementSystem.DataAcces\\Models\\LucySalesDataContext.cs",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\Models\\LucySalesDataContext.cs",
-              "RelativeToolTip": "SalesManagementSystem.DataAcces\\Models\\LucySalesDataContext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwCMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T08:02:54.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\appsettings.json",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\appsettings.json",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\appsettings.json",
-              "RelativeToolTip": "Sales Management System.WPF\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-16T07:34:32.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SalesManagementSystem.WPF.csproj",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\SalesManagementSystem.WPF.csproj",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\SalesManagementSystem.WPF.csproj",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\SalesManagementSystem.WPF.csproj",
-              "RelativeToolTip": "Sales Management System.WPF\\SalesManagementSystem.WPF.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-16T14:05:15.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\IRepository.cs",
-              "RelativeDocumentMoniker": "SalesManagementSystem.DataAcces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\IRepository.cs",
-              "RelativeToolTip": "SalesManagementSystem.DataAcces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T14:05:03.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.BusinessLogic\\Service\\CustomerService.cs",
-              "RelativeDocumentMoniker": "SalesManagementSystem.BusinessLogic\\Service\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.BusinessLogic\\Service\\CustomerService.cs",
-              "RelativeToolTip": "SalesManagementSystem.BusinessLogic\\Service\\CustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T14:05:06.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SalesManagementSystem.DataAcces.csproj",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj",
-              "RelativeDocumentMoniker": "SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj",
-              "RelativeToolTip": "SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-16T04:55:36.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Sales Management System.WPF\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Sales Management System.WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T04:52:42.718Z"
             }
           ]
         }

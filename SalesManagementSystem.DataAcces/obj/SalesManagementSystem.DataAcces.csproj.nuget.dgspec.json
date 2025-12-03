@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj": {}
+    "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj": {
+    "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj",
+        "projectUniqueName": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj",
         "projectName": "SalesManagementSystem.DataAcces",
-        "projectPath": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj",
+        "projectPath": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj",
         "packagesPath": "C:\\Users\\alvin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\obj\\",
+        "outputPath": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

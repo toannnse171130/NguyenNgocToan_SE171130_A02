@@ -3144,11 +3144,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\SalesManagementSystem.WPF.csproj",
+      "projectUniqueName": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\SalesManagementSystem.WPF.csproj",
       "projectName": "SalesManagementSystem.WPF",
-      "projectPath": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\SalesManagementSystem.WPF.csproj",
+      "projectPath": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\SalesManagementSystem.WPF.csproj",
       "packagesPath": "C:\\Users\\alvin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\obj\\",
+      "outputPath": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\Sales Management System.WPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3170,11 +3170,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.BusinessLogic\\SalesManagementSystem.BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.BusinessLogic\\SalesManagementSystem.BusinessLogic.csproj"
+            "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.BusinessLogic\\SalesManagementSystem.BusinessLogic.csproj": {
+              "projectPath": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.BusinessLogic\\SalesManagementSystem.BusinessLogic.csproj"
             },
-            "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj": {
-              "projectPath": "C:\\Users\\alvin\\Downloads\\NguyenNgocToan_SE171130_A02\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj"
+            "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj": {
+              "projectPath": "D:\\fbt\\PRN212_Lab_Assignment\\NguyenNgocToan_SE171130_As2\\NguyenNgocToan_SE171130_A02\\SalesManagementSystem.DataAcces\\SalesManagementSystem.DataAcces.csproj"
             }
           }
         }
@@ -3216,5 +3216,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }
